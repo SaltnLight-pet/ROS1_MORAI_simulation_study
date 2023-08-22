@@ -1,0 +1,8 @@
+prefix=/home/pet/ROS1_study/MORAI_simulation/simulation_study/install
+
+Name: scout_msgs
+Description: Description of scout_msgs
+Version: 0.3.3
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

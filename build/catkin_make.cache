@@ -1,0 +1,2 @@
+simulator-main/MORAI-Example_WeGo/ros_example_packages/scout_msgs:simulator-main/MORAI-Example_WeGo/ros_example_packages/scout_ros:simulator-main/MORAI-ROS_morai_msgs
+-DCATKIN_DEVEL_PREFIX=/home/pet/ROS1_study/MORAI_simulation/simulation_study/devel -DCMAKE_INSTALL_PREFIX=/home/pet/ROS1_study/MORAI_simulation/simulation_study/install -G Unix Makefiles

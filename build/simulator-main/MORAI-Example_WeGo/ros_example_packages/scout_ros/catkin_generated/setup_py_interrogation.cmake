@@ -1,0 +1,7 @@
+set(scout_ros_SETUP_PY_SETUP_MODULE "distutils.core")
+set(scout_ros_SETUP_PY_VERSION "0.0.0")
+set(scout_ros_SETUP_PY_SCRIPTS "")
+set(scout_ros_SETUP_PY_PACKAGES "scout_ros")
+set(scout_ros_SETUP_PY_PACKAGE_DIRS "src/scout_ros")
+set(scout_ros_SETUP_PY_MODULES "")
+set(scout_ros_SETUP_PY_MODULE_DIRS "")

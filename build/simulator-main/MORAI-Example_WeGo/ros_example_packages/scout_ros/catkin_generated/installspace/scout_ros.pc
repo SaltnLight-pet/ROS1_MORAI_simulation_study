@@ -1,0 +1,8 @@
+prefix=/home/pet/ROS1_study/MORAI_simulation/simulation_study/install
+
+Name: scout_ros
+Description: Description of scout_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
