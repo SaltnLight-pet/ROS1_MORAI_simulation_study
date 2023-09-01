@@ -6,5 +6,6 @@
     "python.analysis.extraPaths": [
         "/home/kwcobot/kw4_ws/devel/lib/python2.7/dist-packages",
         "/opt/ros/melodic/lib/python2.7/dist-packages"
-    ]
+    ],
+    "cmake.sourceDirectory": "/home/pet/ROS1_study/MORAI_simulation/simulation_study/src/simulator-main/MORAI-Example_WeGo/ros_example_packages/scout_msgs"
 }
