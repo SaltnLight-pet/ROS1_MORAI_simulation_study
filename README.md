@@ -15,7 +15,7 @@
 |ROBOT|Wego scout_mini|
 
 ## 01_실행 코드
-### Camera Datas
+### [Camera Datas]
 #### 1.sub_camera.py
 #### 2.pub_camera.py
 #### 3.bird_eye_view.py
